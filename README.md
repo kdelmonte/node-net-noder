@@ -1,6 +1,10 @@
-# NetNoder
+# node-netnoder
 
 NetNoder allows you to start/stop and monitor a node.js express server from a .NET application.
+
+# Install
+
+	npm install netnoder
 
 
 This is the repository for the NPM package.
