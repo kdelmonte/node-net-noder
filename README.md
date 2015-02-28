@@ -2,7 +2,7 @@
 
 NetNoder allows you to start/stop and monitor a node.js express server from a .NET application.
 
-# Install
+## Install
 
 	npm install netnoder
 
