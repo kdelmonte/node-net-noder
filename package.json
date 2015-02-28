@@ -1,6 +1,6 @@
 {
   "name": "netnoder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Start, monitor and communicate a node.js server from a .NET application",
   "main": "netnoder.js",
   "scripts": {
