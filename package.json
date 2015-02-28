@@ -2,7 +2,7 @@
   "name": "netnoder",
   "version": "0.0.1",
   "description": "Start, monitor and communicate a node.js server from a .NET application",
-  "main": "net-noder.js",
+  "main": "netnoder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
