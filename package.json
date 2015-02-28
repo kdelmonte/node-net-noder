@@ -1,7 +1,7 @@
 {
   "name": "netnoder",
   "version": "0.0.3",
-  "description": "Start, monitor and communicate a node.js server from a .NET application",
+  "description": "Start, stop and monitor a node.js server from a .NET application",
   "main": "netnoder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
