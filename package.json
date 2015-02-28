@@ -1,0 +1,31 @@
+{
+  "name": "netnoder",
+  "version": "0.0.1",
+  "description": "Start, monitor and communicate a node.js server from a .NET application",
+  "main": "net-noder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdelmonte/node-netnoder.git"
+  },
+  "keywords": [
+    ".net",
+    "nodejs",
+    "monitor",
+    "start",
+    "stop",
+    "webserver"
+  ],
+  "author": "Kelvin Del Monte <kdelmonten@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdelmonte/node-netnoder/issues"
+  },
+  "homepage": "https://github.com/kdelmonte/node-netnoder",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "yargs": "^3.4.4"
+  }
+}
