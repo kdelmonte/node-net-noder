@@ -10,7 +10,7 @@ module.exports = function (expressApp) {
     var bodyParser = require('body-parser');
 
     // parse application/json
-    app.use(bodyParser.json());
+    expressApp.use(bodyParser.json());
 
     // Set routes for ping and kill
     expressApp.post('/netnoderping', function(req, res) {
